@@ -1,4 +1,4 @@
-# backend
+# Blog API AdonisJS v5
 
 ## Build Setup
 
@@ -20,3 +20,10 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
+
+
+## Technologies used
+- [TypeScript](https://www.typescriptlang.org/docs/)
+- [AdonisJS](https://adonisjs.com/)
+- [Docker](https://www.docker.com/)
+- [MySQL](https://www.mysql.com/)
