@@ -20,7 +20,7 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-
+```
 
 ## Technologies used
 - [TypeScript](https://www.typescriptlang.org/docs/)
